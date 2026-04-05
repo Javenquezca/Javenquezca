@@ -53,7 +53,7 @@
   <!-- whoami output -->
   <text x="20" y="118" class="mono d">  Hola, soy</text>
   <text x="98" y="118" class="mono g"> Javier Vásquez</text>
-  <text x="230" y="118" class="mono w"> — Full-Stack Dev &amp; Security Researcher.</text>
+  <text x="230" y="118" class="mono w"> — Full-Stack Jr. &amp; Security Researcher.</text>
   <text x="20" y="136" class="mono d">  Apasionado por construir productos robustos y encontrar lo que los rompe.</text>
   <text x="20" y="154" class="mono d">  React Native · Node.js · MySQL · Kali Linux · Burp Suite</text>
 
