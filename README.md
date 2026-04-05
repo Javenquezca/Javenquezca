@@ -121,8 +121,4 @@ Cómodo en todo el stack: desde UIs en React Native hasta esquemas MySQL y cajas
   Abierto a freelance y oportunidades full-time.
 ```
 
-```bash
-└─$
-```
-
-![Typing cursor](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=800&color=3FB950&width=30&height=22&lines=█)
+<code>└─$ </code>![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=800&color=3FB950&width=20&height=20&lines=█&center=false)
