@@ -1,6 +1,6 @@
 ```
 ┌─────────────────────────────────────────────────────┐
-│   javier@github ~ Full-Stack Dev & Security Researcher  │
+│javier@github ~ Full-Stack Dev & Security Researcher │
 └─────────────────────────────────────────────────────┘
 ```
 
