@@ -99,9 +99,9 @@ Cómodo en todo el stack: desde UIs en React Native hasta esquemas MySQL y cajas
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Javenquezca&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&ring_color=3fb950)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Javenquezca&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Javenquezca&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Javenquezca&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&langs_count=8&count_private=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Javenquezca&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950)](https://git.io/streak-stats)
 
@@ -122,5 +122,7 @@ Cómodo en todo el stack: desde UIs en React Native hasta esquemas MySQL y cajas
 ```
 
 ```bash
-└─$ █
+└─$
 ```
+
+![Typing cursor](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=800&color=3FB950&width=30&height=22&lines=█)
